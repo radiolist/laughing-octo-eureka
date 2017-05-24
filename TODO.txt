@@ -1,3 +1,7 @@
 TODO.txt
 
 I'd probably start oganizing the stations into some sort of categories, be it country, or whatever. Country would probably do well. Then they could be sub-categorized into regions. Or maybe language would be a better way to organize. I don't know.
+
+1. Need people who speak different languages who can find radio streams of other countries. 
+2. Define naming conventions
+3. 
