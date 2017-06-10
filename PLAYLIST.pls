@@ -1,3 +1,7 @@
+## Radiolist
+## You may not use https else you won't get playback; I don't know why.
+## No copyright.
+
 [playlist]
 
 File1=http://stream2.cprnetwork.org:8000/cpr1_aac
@@ -280,8 +284,40 @@ File65=http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 Title65=BBC World Service Online
 Length65=-1
 
-numberofentries=65
 
+##usa
+##alabama
+File66=http://17453.live.streamtheworld.com/WUAL_HD1.mp3
+Title66=AL Public Radio 1
+Length66=-1
+	
+File67=http://19303.live.streamtheworld.com/WUAL_HD2.mp3
+Title67=AL Public Radio 2
+Length67=-1
+
+File68=http://19303.live.streamtheworld.com/WUAL_HD3.mp3
+Title68=AL Public Radio, 3 (BBC World Service)
+Length68=-1
+
+## Qatar
+## Check this for more information: https://en.wikipedia.org/wiki/Qatar_Radio
+## http://www.qatarradio.qa/Live
+
+
+# catholic
+File69=http://ewtn.mp3.miisolutions.net/ewtnradioenglish/aac
+Title69=EWTN English
+Length69=-1
+
+File70=http://ewtn.mp3.miisolutions.net/ewtnradioplus/aac
+Title70=EWTN Radio
+Length70=-1
+
+File71=http://ewtn.mp3.miisolutions.net/ewtnradiospanish/aac
+Title71=EWTN, Spanish
+Lenth71=-1
+
+numberofentries=71
 Version=2
 
 
